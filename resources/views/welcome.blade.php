@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Prueba para cualquier cosa</h1>
-    <h1>que pex</h1>
-    </body>
+
+    <h2>subtitulo :&#40;</h2>
+</body>
 </html>
